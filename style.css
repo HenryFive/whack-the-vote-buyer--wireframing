@@ -1,0 +1,221 @@
+.game {
+    position: relative;
+    background: #a8a8a8;
+    width: 640px;
+    height: 480px;
+}
+
+#game_stats {
+    position: absolute;
+    background: #a2a2a2;
+    right: 0px;
+    top: 0px;
+    border: 1px solid blue;
+    width: 80px;
+    height: 65px;
+
+}
+
+#hole-a-1 {
+    position: absolute;
+    display: inline;
+    border: 1px solid green;
+    width: 50px;
+    height: 50px;
+
+    left: 100px;
+    top: 350px;
+
+}
+
+#hole-a-2 {
+    position: absolute;
+    display: inline;
+    border: 1px solid green;
+    width: 50px;
+    height: 50px;
+
+    left: 300px;
+    top: 350px;
+}
+
+#hole-a-3 {
+    position: absolute;
+    display: inline;
+    border: 1px solid green;
+    width: 50px;
+    height: 50px;
+
+    left: 500px;
+    top: 350px;
+}
+
+
+#hole-b-1 {
+    position: absolute;
+    display: inline;
+    border: 1px solid green;
+    width: 50px;
+    height: 50px;
+
+    left: 100px;
+    top: 225px;
+}
+
+#hole-b-2 {
+    position: absolute;
+    display: inline;
+    border: 1px solid green;
+    width: 50px;
+    height: 50px;
+
+    left: 300px;
+    top: 225px;
+
+}
+
+#hole-b-3 {
+    position: absolute;
+    display: inline;
+    border: 1px solid green;
+    width: 50px;
+    height: 50px;
+
+    left: 500px;
+    top: 225px;
+}
+
+#hole-c-1 {
+    position: absolute;
+    display: inline;
+    border: 1px solid green;
+    width: 50px;
+    height: 50px;
+
+    left: 100px;
+    top: 100px;
+}
+
+#hole-c-2 {
+    position: absolute;
+    display: inline;
+    border: 1px solid green;
+    width: 50px;
+    height: 50px;
+
+    left: 300px;
+    top: 100px;
+}
+
+#hole-c-3 {
+    position: absolute;
+    display: inline;
+    border: 1px solid green;
+    width: 50px;
+    height: 50px;
+
+    left: 500px;
+    top: 100px;
+}
+
+#hand-a-1 {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid blue;
+    display: block;
+
+    width: 50px;
+    height: 50px;
+}
+
+#hand-a-2 {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid blue;
+    display: block;
+    
+    width: 50px;
+    height: 50px;
+}
+
+#hand-a-3 {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid blue;
+    display: block;
+    
+    width: 50px;
+    height: 50px;
+}
+
+#hand-b-1 {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid blue;
+    display: block;
+
+    width: 50px;
+    height: 50px;
+}
+
+#hand-b-2 {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid blue;
+    display: block;
+    
+    width: 50px;
+    height: 50px;
+}
+
+#hand-b-3 {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid blue;
+    display: block;
+    
+    width: 50px;
+    height: 50px;
+}
+
+#hand-c-1 {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid blue;
+    display: block;
+
+    width: 50px;
+    height: 50px;
+}
+
+#hand-c-2 {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid blue;
+    display: block;
+    
+    width: 50px;
+    height: 50px;
+}
+
+#hand-c-3 {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid blue;
+    display: block;
+    
+    width: 50px;
+    height: 50px;
+}
+
+
+#third_row {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 640px;
+    height: 180px;
+    background: #939393;
+}
+
+
